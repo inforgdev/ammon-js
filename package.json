@@ -1,0 +1,17 @@
+{
+  "name": "ammon-js",
+  "version": "0.0.0",
+  "description": "Contributing guide",
+  "type": "module",
+  "keywords": [
+    "contributing",
+    "guide"
+  ],
+  "author": "Inforg <contact@inforg.dev> (https://inforg.dev)",
+  "contributors": [
+    "Luis Float <contact@luisfloat.com> (https://luisfloat.com)"
+  ],
+  "homepage": "https://github.com/inforgdev/ammon-js",
+  "repo": "github:inforgdev/ammon-js",
+  "bugs": "https://github.com/inforgdev/ammon-js/issues"
+}
