@@ -13,5 +13,10 @@
   ],
   "homepage": "https://github.com/inforgdev/ammon-js",
   "repo": "github:inforgdev/ammon-js",
-  "bugs": "https://github.com/inforgdev/ammon-js/issues"
+  "bugs": "https://github.com/inforgdev/ammon-js/issues",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
 }
