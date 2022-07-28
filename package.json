@@ -20,6 +20,8 @@
     "docs:build": "vitepress build ./"
   },
   "devDependencies": {
+    "rollup": "^2.77.2",
+    "rollup-plugin-node-resolve": "^5.2.0",
     "vitepress": "^1.0.0-alpha.4",
     "vue": "^3.2.37"
   }
