@@ -17,7 +17,8 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "scripts": {
     "docs:dev": "vitepress dev ./",
-    "docs:build": "vitepress build ./"
+    "docs:build": "vitepress build ./",
+    "main:compile": "rollup --config rollup.config.js"
   },
   "devDependencies": {
     "rollup": "^2.77.2",
