@@ -6,6 +6,7 @@ export default {
     output: {
         file: "./dist/ammon.cjs",
         format: "cjs",
+        exports: "auto",
     },
     plugins: [
         nodeResolve(),
