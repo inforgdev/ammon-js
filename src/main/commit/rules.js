@@ -1,0 +1,15 @@
+export default {
+    "type-empty": [ 2, "never" ],
+    "type-case": [ 2, "always", "lowerCase" ],
+    "type-enum": [ 2, "always", [ "feat", "bug", "style", "refactor", "perf", ] ],
+    "scope-case": [ 2, "always", "lowerCase" ],
+    "scope-enum": [ 2, "always", [ "main", "docs", "test", "build", "pipe", "example" ] ],
+    "subject-empty": [ 2, "never" ],
+    "subject-case": [ 2, "never", ["sentence-case", "start-case", "pascal-case", "upper-case"], ],
+    "subject-full-stop": [ 2, "never", "." ],
+    "header-max-length": [ 2, "never", 100 ],
+    "body-leading-blank": [ 1, "always" ],
+    "body-max-line-length": [ 2, "always", 100 ],
+    "footer-leading-blank": [ 1, "always" ],
+    "footer-max-line-length": [ 2, "always", 100 ],
+};
